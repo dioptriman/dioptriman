@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFwOFuBqoI/JbDK-pvmk8pg-lhabwnj9w/edit?utm_content=DAFwOFuBqoI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFwOFuBqoI/JbDK-pvmk8pg-lhabwnj9w/edit?utm_content=DAFwOFuBqoI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- ⚡ Fun fact **I'm secretly know how to design**
+- ⚡ Fun fact **I'm a control theory geek**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
