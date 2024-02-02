@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CCTV Camera Analytics](https://github.com/dioptriman/BangkitCapstone)
 
-- 🌱 I’m currently learning **Machine Learning Engineering in Bangkit Academy**
+- 🌱 I’m currently learning **Mechatronics Engineering in Swiss German University**
 
 - 👯 I’m looking to collaborate on **Machine Learning or Robotics Project**
 
