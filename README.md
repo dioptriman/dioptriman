@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CCTV Camera Analytics](https://github.com/dioptriman/BangkitCapstone)
 
-- 🌱 I’m currently learning **Mechatronics Engineering in Swiss German University**
+- 🌱 I’m currently learning [Golang Programming Language](https://github.com/dioptriman/golangLearning1)
 
 - 👯 I’m looking to collaborate on **Machine Learning or Robotics Project**
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@andhikaagung90](https://medium.com/@andhikaagung90)
 
-- 💬 Ask me about **Mathematics Modelling, Physics, Control System, and Robotics**
+- 💬 Ask me about **Mathematics Modelling, Physics, Control Systems, and Robotics**
 
 - 📫 How to reach me **andhikaagung90@gmail.com**
 
