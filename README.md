@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning [Golang Programming Language](https://github.com/dioptriman/golangLearning1)
 
-- 👯 I’m looking to collaborate on **Machine Learning or Robotics Project**
+- 👯 I’m looking to collaborate on **Software Engineering Project**
 
 - 👨‍💻 All of my projects are available at [https://www.canva.com/design/DAFgba3JaI0/6e4w2WJ5RVjx0Qx8gyB9VQ/edit](https://www.canva.com/design/DAFgba3JaI0/6e4w2WJ5RVjx0Qx8gyB9VQ/edit)
 
