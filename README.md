@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andhika Agung Pratama</h1>
 <h3 align="center">A passionate Mechatronics Engineer</h3>
 
-- 🔭 I’m currently working on [CCTV Camera Analytics](https://github.com/dioptriman/BangkitCapstone)
+- 🔭 I’m currently working on [Microservices](https://github.com/dioptriman/Microservices)
 
 - 🌱 I’m currently learning [Golang Programming Language](https://github.com/dioptriman/golangLearning1)
 
