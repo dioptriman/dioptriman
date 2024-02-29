@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andhika Agung Pratama</h1>
-<h3 align="center">A passionate Mechatronics Engineer</h3>
+<h3 align="center">A Passionate Mechatronics Engineer</h3>
 
 - 🔭 I’m currently working on [Microservices](https://github.com/dioptriman/Microservices)
 
