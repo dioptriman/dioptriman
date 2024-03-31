@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **andhikaagung90@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFwOFuBqoI/JbDK-pvmk8pg-lhabwnj9w/edit?utm_content=DAFwOFuBqoI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFwOFuBqoI/JbDK-pvmk8pg-lhabwnj9w/edit?utm_content=DAFwOFuBqoI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [https://www.canva.com/design/DAF90VsR6PI/d3eVU-ugQhilZLxi0eAcdQ/view?utm_content=DAF90VsR6PI&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF90VsR6PI/d3eVU-ugQhilZLxi0eAcdQ/view?utm_content=DAF90VsR6PI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 - ⚡ Fun fact **I'm a control theory geek**
 
